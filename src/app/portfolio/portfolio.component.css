@@ -1,0 +1,9 @@
+.layer{
+    background-color: #1ABC9C;
+    cursor: pointer;
+    opacity: 0;
+    transition: all,1s;
+}
+.item:hover .layer{
+    opacity: .7;
+}

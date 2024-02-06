@@ -1,0 +1,12 @@
+nav{
+    background-color: #2C3E50;
+}
+a{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+}
